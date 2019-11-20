@@ -13,16 +13,22 @@ body {
 
 header {
     padding: 2em 0 10em;
-    background: #f3f3f3;
+    background-image: url('../img/background_home.jpg');
+    background-size: cover;
+    background-position: center bottom;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+header img {
+    filter: drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.5))
 }
 
 header p {
     font-family: 'Philosopher', sans-serif;
-    color: #888;
+    color: #fff;
     font-size: 1.2em;
     margin: 1em 0 2em;
-    text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
+    text-shadow: #000 0 0 5px;
     text-align: left;
 }
 
@@ -33,18 +39,17 @@ nav {
 
 nav a,
 footer a {
-    color: #666;
+    color: #fff;
     display: inline-block;
     padding: 1em;
     flex-grow: 1;
     text-align: center;
-    text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
+    text-shadow: #000 0 0 5px;
     font-weight: bold;
 }
 
-nav a:hover,
-footer a:hover {
-    background: #ddd;
+nav a:hover {
+    background: rgba(0, 0, 0, 0.2);
 }
 
 footer {
