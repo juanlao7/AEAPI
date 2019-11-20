@@ -1,0 +1,116 @@
+html,body{margin: 0;padding: 0}* {background:transparent;line-height:normal;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;}:focus{outline:none;}button::-moz-focus-inner{padding:0;border:0;}div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;margin:0}fieldset,img{border:0;vertical-align:baseline;max-width:none}address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-weight:inherit;}del,ins{text-decoration:none;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:baseline;}sub{vertical-align:baseline;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{*font-size:100%;}
+
+html {
+    background: #fafafa;
+}
+
+body {
+    color: #3c4043;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+header {
+    padding: 2em 0 10em;
+    background: #eaeaea;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+header p {
+    font-family: 'Philosopher', sans-serif;
+    color: #888;
+    font-size: 1.2em;
+    margin: 1em 0 2em;
+    text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
+}
+
+nav {
+    display: flex;
+    margin: 1em 0;
+}
+
+nav a,
+footer a {
+    color: #666;
+    display: inline-block;
+    padding: 1em;
+    flex-grow: 1;
+    text-align: center;
+    text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
+    font-weight: bold;
+}
+
+nav a:hover,
+footer a:hover {
+    background: #ddd;
+}
+
+footer {
+    padding: 3em 1em;
+    background: #eaeaea;
+    margin-top: -8em;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin: 16px 0;
+}
+
+h2 {
+    font-size: 1.25em;
+    margin: 24px 0 16px;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+.adjusted {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 24px;
+}
+
+.button {
+    background: #267CB9;
+    color: #fff;
+    padding: 0.5em 1em;
+    display: inline-block;
+}
+
+.button:hover {
+    font-weight: normal;
+    color: #fff;
+    outline: 1px solid #fff;
+    outline-offset: -3px;
+}
+
+.circled {
+    border-radius: 50%;
+}
+
+.gray {
+    filter: grayscale(100%);
+    opacity: 40%;
+}
+
+.gray:hover {
+    filter: none;
+    opacity: 100%;
+}
+
+#content {
+    top: -11em;
+    background: #fff;
+    position: relative;
+    padding-bottom: 64px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    padding-top: 24px;
+    padding-bottom: 96px;
+}
