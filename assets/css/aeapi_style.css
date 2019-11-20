@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    color: #3c4043;
+    color: #666;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.1rem;
     line-height: 1.5;
@@ -13,7 +13,7 @@ body {
 
 header {
     padding: 2em 0 10em;
-    background: #eaeaea;
+    background: #f3f3f3;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -23,6 +23,7 @@ header p {
     font-size: 1.2em;
     margin: 1em 0 2em;
     text-shadow: rgba(255, 255, 255, 0.8) 0 1px 0;
+    text-align: left;
 }
 
 nav {
@@ -47,9 +48,9 @@ footer a:hover {
 }
 
 footer {
-    padding: 3em 1em;
+    padding: 5em 1em;
     background: #eaeaea;
-    margin-top: -8em;
+    margin-top: -12em;
 }
 
 h1 {
@@ -68,6 +69,10 @@ p {
 
 a {
     text-decoration: none;
+}
+
+img {
+    max-width: 100%;
 }
 
 .adjusted {
