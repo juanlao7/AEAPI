@@ -23,14 +23,6 @@ no_title: true
     #content img.circled {
         margin-top: 3em;
     }
-
-    header {
-        background-image: url('assets/img/background_contact.jpg');
-    }
-
-    nav a:hover {
-        background: rgba(255, 255, 255, 0.3);
-    }
 </style>
 
 

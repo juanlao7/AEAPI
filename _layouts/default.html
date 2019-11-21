@@ -8,7 +8,7 @@
     {% include autotitle.html html=content %}
     {% seo title=false %}
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Material+Icons" />
     <link rel="stylesheet" href="{{ '/assets/css/aeapi_style.css?v=' | append: site.github.build_revision | relative_url }}" />
   </head>
 
@@ -19,10 +19,10 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav>
-          <a href="">Inicio</a>
-          <a href="quienes_somos">Quiénes somos</a>
-          <a href="foro">Foro público</a>
-          <a href="contacto">Contacto</a>
+          <a href=""><i class="material-icons">home</i> Inicio</a>
+          <a href="quienes_somos"><i class="material-icons">group</i>Quiénes somos</a>
+          <a href="foro"><i class="material-icons">chat</i>Foro público</a>
+          <a href="contacto"><i class="material-icons">mail</i>Contacto</a>
         </nav>
       </div>
     </header>

@@ -23,10 +23,6 @@ no_title: true
     #content img.circled {
         margin-top: 3em;
     }
-    
-    header {
-        background-image: url('assets/img/background_forum.jpg');
-    }
 </style>
 
 
