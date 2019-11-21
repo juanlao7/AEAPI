@@ -29,6 +29,12 @@
       "css": "mail",
       "code": 59395,
       "src": "modernpics"
+    },
+    {
+      "uid": "dec0ce0476433f7e49e096526cf89465",
+      "css": "hammer",
+      "code": 59396,
+      "src": "fontawesome"
     }
   ]
 }

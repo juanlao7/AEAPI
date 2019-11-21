@@ -3,6 +3,10 @@ no_title: true
 ---
 
 <style>
+    #backgroundImage {
+        background-image: url('assets/img/background_5.jpg');
+    }
+
     h2 {
         margin-top: 3em;
     }
@@ -25,31 +29,6 @@ no_title: true
     }
 </style>
 
+# Contacto
 
-
-
-![](assets/img/forum.jpg){:.circled}
-
-# Fomentando la colaboración
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
-
-[Ir al foro](foro){:.button}
-
-
-
-
-![](assets/img/knowledge.jpg){:.circled}
-
-# Ampliando y promoviendo el conocimiento
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
-
-
-
-
-![](assets/img/handshake.jpg){:.circled}
-
-# Tejiendo una extensa red profesional
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
+En construcción.

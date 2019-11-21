@@ -15,8 +15,10 @@
 
   <body>
     <header>
+      <div id="backgroundImage"></div>
+
       <div class="adjusted">
-        <img src="{{site.logo | relative_url}}" alt="AEAPI" />
+        <img src="{{ site.logo }}" alt="AEAPI" />
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <nav>
@@ -34,8 +36,14 @@
     
     <footer>
       <div class="adjusted">
-        <!--<h1>Con la colaboración de</h1>
-        <img src="assets/img/ponti.png" alt="PONTI" />-->
+        <div id="footerLinks">
+          <a href="estatutos"><i class="icon-hammer"></i> Estatutos de la asociación</a>
+        </div>
+
+        <div id="collaboration">
+          <h1>Con la colaboración de</h1>
+          <a href="https://www.ponti.pro/" target="_blank" rel="noopener noreferrer"><img src="assets/img/ponti.png" alt="PONTI" /></a>
+        </div>
       </div>
     </footer>
   </body>

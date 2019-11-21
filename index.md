@@ -3,12 +3,12 @@ no_title: true
 ---
 
 <style>
-    h2 {
-        margin-top: 3em;
+    #backgroundImage {
+        background-image: url('assets/img/background_3.jpg');
     }
 
-    .button {
-        margin: 1.5em;
+    h2 {
+        margin-top: 3em;
     }
 
     #content,
@@ -22,6 +22,12 @@ no_title: true
 
     #content img.circled {
         margin-top: 3em;
+    }
+
+    @media screen and (max-width: 570px) {
+        #content img {
+            max-width: 80%;
+        }
     }
 </style>
 
@@ -39,11 +45,21 @@ Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cua
 
 
 
+![](assets/img/enterprise.jpg){:.circled}
+
+# Soporte y ayuda para empresas
+
+Asesoramiento profesional para la gestión de trámites relacionados con la propiedad industrial.
+
+[Solicitar información](contacto){:.button}
+
+
+
 ![](assets/img/knowledge.jpg){:.circled}
 
 # Ampliando y promoviendo el conocimiento
 
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
+Jornadas, cursos y seminarios sobre todos los aspectos relacionados con la propiedad industrial.
 
 
 
@@ -52,4 +68,4 @@ Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cua
 
 # Tejiendo una extensa red profesional
 
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
+Amplía e interactúa con profesionales del campo de la propiedad industrial. Intercambia ideas, información y oportunidades.

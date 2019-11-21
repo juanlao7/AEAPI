@@ -3,53 +3,66 @@ no_title: true
 ---
 
 <style>
-    h2 {
-        margin-top: 3em;
+    #backgroundImage {
+        background-image: url('assets/img/background_2.jpg');
     }
 
-    .button {
-        margin: 1.5em;
-    }
-
-    #content,
-    #content p {
+    #content {
         text-align: center;
     }
 
-    #content img {
-        max-width: 40%;
+    #content h1 {
+        margin-bottom: 2em;
     }
 
-    #content img.circled {
-        margin-top: 3em;
+    #people div {
+        width: 49%;
+        display: inline-block;
+        padding: 0 10% 5%;
+        box-sizing: border-box;
+        vertical-align: top;
+    }
+
+    #people div p {
+        text-align: center;
+        margin: 1em;
+    }
+
+    #people div img + p {
+        font-weight: bold;
+    }
+
+    @media screen and (max-width: 570px) {
+        #people div p {
+            font-size: 3vw;
+        }
     }
 </style>
 
+# Nuestro equipo
 
+<div id="people">
+    <div>
+        <img class="circled" src="assets/img/people/cersei_lannister.jpg" />
+        <p>Cersei Lannister</p>
+        <p>Reina consorte de los Siete Reinos</p>
+    </div>
 
+    <div>
+        <img class="circled" src="assets/img/people/daenerys_targaryen.jpg" />
+        <p>Daenerys Targaryen</p>
+        <p>Heredera al Trono de Hierro</p>
+    </div>
 
-![](assets/img/forum.jpg){:.circled}
+    <div>
+        <img class="circled" src="assets/img/people/sansa_stark.jpg" />
+        <p>Sansa Stark</p>
+        <p>Señora de Invernalia</p>
+    </div>
 
-# Fomentando la colaboración
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
-
-[Ir al foro](foro){:.button}
-
-
-
-
-![](assets/img/knowledge.jpg){:.circled}
-
-# Ampliando y promoviendo el conocimiento
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
-
-
-
-
-![](assets/img/handshake.jpg){:.circled}
-
-# Tejiendo una extensa red profesional
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
+    <div>
+        <img class="circled" src="assets/img/people/arya_stark.jpg" />
+        <p>Arya Stark</p>
+        <p>Paralegal</p>
+    </div>
+</div>
