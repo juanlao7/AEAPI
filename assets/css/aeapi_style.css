@@ -37,30 +37,31 @@ nav {
     margin: 1em 0;
 }
 
-nav a,
-footer a {
+nav a {
     color: #fff;
     display: inline-block;
     padding: 1em;
     flex-grow: 1;
     text-align: center;
     text-shadow: #000 0 0 5px;
-    font-weight: bold;
+    border-radius: 16px 16px 0 0;
 }
 
 nav a:hover {
     background: rgba(0, 0, 0, 0.2);
 }
 
-nav .material-icons {
+nav i {
     display: block;
-    margin: 0.25em;
+    margin: 0.25em auto;
+    font-size: 36px;
 }
 
 footer {
     padding: 5em 1em;
     background: #eaeaea;
     margin-top: -15em;
+    text-align: center;
 }
 
 h1 {
@@ -99,8 +100,6 @@ img {
 }
 
 .button:hover {
-    font-weight: normal;
-    color: #fff;
     outline: 1px solid #fff;
     outline-offset: -3px;
 }
@@ -126,5 +125,5 @@ img {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     border-radius: 8px;
     padding-top: 24px;
-    padding-bottom: 168px;
+    padding-bottom: 128px;
 }
