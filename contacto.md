@@ -25,9 +25,9 @@ no_title: true
 # Contacto
 
 <p id="emailParagraph">
-    <i class="icon-mail"></i> Envíenos un email a <span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
+    <i class="icon-mail"></i> Envíanos un email a <span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
 </p>
 
-o, si lo desea, puede dejar aquí su mensaje:
+o, si lo prefieres, puedes dejar aquí tu mensaje:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelaLEwW698RR7vKIFh_lnvSlZh2LFKOQrsQ-Ij3K1bKj11Hw/viewform?embedded=true" width="80%" height="800" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelaLEwW698RR7vKIFh_lnvSlZh2LFKOQrsQ-Ij3K1bKj11Hw/viewform?embedded=true" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
