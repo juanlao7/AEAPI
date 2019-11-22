@@ -11,6 +11,10 @@ no_title: true
         margin-top: 3em;
     }
 
+    #content {
+        padding: 24px 64px 100px;
+    }
+
     #content,
     #content p {
         text-align: center;
@@ -25,6 +29,10 @@ no_title: true
     }
 
     @media screen and (max-width: 570px) {
+        #content {
+            padding: 24px 10% 100px;
+        }
+        
         #content img {
             max-width: 80%;
         }

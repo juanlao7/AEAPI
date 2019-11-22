@@ -6,29 +6,22 @@ no_title: true
     #backgroundImage {
         background-image: url('assets/img/background_1.jpg');
     }
-
-    h2 {
-        margin-top: 3em;
-    }
-
-    .button {
-        margin: 1.5em;
-    }
-
-    #content,
-    #content p {
-        text-align: center;
-    }
-
-    #content img {
-        max-width: 40%;
-    }
-
-    #content img.circled {
-        margin-top: 3em;
-    }
 </style>
 
 # Foro
 
-En construcción.
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/a/aeapi.es/forum/embed/?place=forum/foro'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+
+    console.log(document.getElementById('forum_embed').src);
+</script>

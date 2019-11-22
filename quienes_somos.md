@@ -8,6 +8,8 @@ no_title: true
     }
 
     #content {
+        padding-left: 0;
+        padding-right: 0;
         text-align: center;
     }
 

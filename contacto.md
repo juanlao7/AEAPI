@@ -7,28 +7,27 @@ no_title: true
         background-image: url('assets/img/background_5.jpg');
     }
 
-    h2 {
-        margin-top: 3em;
-    }
-
-    .button {
-        margin: 1.5em;
-    }
-
     #content,
     #content p {
         text-align: center;
     }
 
-    #content img {
-        max-width: 40%;
+    p#emailParagraph {
+        margin: 3em 0;
+        font-size: 1.25em;
     }
 
-    #content img.circled {
-        margin-top: 3em;
+    .email {
+        color: #267CB9;
     }
 </style>
 
 # Contacto
 
-En construcción.
+<p id="emailParagraph">
+    <i class="icon-mail"></i> Envíenos un email a <span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
+</p>
+
+o, si lo desea, puede dejar aquí su mensaje:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelaLEwW698RR7vKIFh_lnvSlZh2LFKOQrsQ-Ij3K1bKj11Hw/viewform?embedded=true" width="80%" height="800" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>

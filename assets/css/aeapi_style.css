@@ -11,18 +11,6 @@ body {
     line-height: 1.5;
 }
 
-#backgroundImage {
-    position: absolute;
-    top: -10px;
-    bottom: -10px;
-    left: -10px;
-    right: -10px;
-    background-size: cover;
-    background-position: center bottom;
-    z-index: -1;
-    filter: blur(10px);
-}
-
 header {
     position: relative;
     padding: 2em 0 10em;
@@ -76,8 +64,8 @@ footer {
 }
 
 footer img {
-    height: 100px;
-    margin: 1em;
+    max-height: 100px;
+    margin-top: 1em;
 }
 
 h1 {
@@ -103,10 +91,15 @@ img {
     max-width: 100%;
 }
 
+em {
+    font-style: italic;
+}
+
 .adjusted {
     max-width: 800px;
     margin: auto;
     padding: 0 24px;
+    box-sizing: border-box;
 }
 
 .button {
@@ -125,13 +118,35 @@ img {
     border-radius: 50%;
 }
 
+.antispam {
+    display: inline-block;
+    width: 0;
+    opacity: 0;
+    white-space: nowrap;
+    padding: 0 !important;
+    margin: 0;
+    user-select: none;
+}
+
+#backgroundImage {
+    position: absolute;
+    top: -50px;
+    bottom: -50px;
+    left: -50px;
+    right: -50px;
+    background-size: cover;
+    background-position: center bottom;
+    z-index: -1;
+    filter: blur(10px);
+    background-color: #888;
+}
+
 #content {
     top: -11em;
     background: #fff;
     position: relative;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
-    padding-top: 24px;
-    padding-bottom: 100px;
+    padding: 24px 32px 100px;
     min-height: 300px;
 }
 
@@ -140,7 +155,7 @@ img {
 }
 
 #footerLinks {
-    margin-bottom:3em;
+    margin: 1em 0 4em;
 }
 
 #footerLinks a {
@@ -176,5 +191,9 @@ img {
 
     nav i {
         font-size: 8vw;
+    }
+
+    #content {
+        padding: 24px 16px 100px;
     }
 }
