@@ -13,7 +13,7 @@ no_title: true
     }
 
     p#emailParagraph {
-        margin: 3em 0;
+        margin: 2em 0 3em;
         font-size: 1.25em;
     }
 
@@ -25,7 +25,7 @@ no_title: true
 # Contacto
 
 <p id="emailParagraph">
-    <i class="icon-mail"></i> Envíanos un email a <span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
+    <i class="icon-mail"></i> Para cualquier tipo de consulta, envíanos un email a<br/><span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
 </p>
 
 o, si lo prefieres, puedes dejar aquí tu mensaje:
