@@ -21,7 +21,7 @@ no_title: true
 
 Bienvenido al foro público de la Asociación Española de Administradores de Propiedad Industrial.
 
-Un espacio para compartir e intercambiar opiniones, resolver colectivamente dudas relacionadas con la propiedad industrial y estar al día de las últimas noticias de la asociación.
+Un espacio donde compartir e intercambiar opiniones, resolver colectivamente dudas relacionadas con la propiedad industrial y estar al día de las últimas noticias de la asociación.
 
 <iframe id="forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" width="100%" height="700"></iframe>
 <script type="text/javascript">
