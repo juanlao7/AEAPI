@@ -7,7 +7,7 @@ no_title: true
         background-image: url('assets/img/background_3.jpg');
     }
 
-    h2 {
+    h3 {
         margin-top: 3em;
     }
 
@@ -39,7 +39,15 @@ no_title: true
     }
 </style>
 
+# El click final que protege las ideas
 
+![](assets/img/handshake.jpg){:.circled}
+
+## Tejiendo una extensa red profesional
+
+Amplía e interactúa con profesionales del campo de la propiedad industrial. Intercambia ideas, información y oportunidades.
+
+[Únete a la asociación](foro){:.button}
 
 
 ![](assets/img/forum.jpg){:.circled}
@@ -51,7 +59,7 @@ Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cua
 [Ir al foro](foro){:.button}
 
 
-
+<!--
 
 ![](assets/img/enterprise.jpg){:.circled}
 
@@ -69,11 +77,4 @@ Asesoramiento profesional para la gestión de trámites relacionados con la prop
 
 Jornadas, cursos y seminarios sobre todos los aspectos relacionados con la propiedad industrial.
 
-
-
-
-![](assets/img/handshake.jpg){:.circled}
-
-# Tejiendo una extensa red profesional
-
-Amplía e interactúa con profesionales del campo de la propiedad industrial. Intercambia ideas, información y oportunidades.
+-->
