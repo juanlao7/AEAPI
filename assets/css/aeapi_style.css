@@ -68,6 +68,18 @@ footer img {
     margin-top: 1em;
 }
 
+footer a {
+    color: #666;
+}
+
+footer a:hover {
+    text-shadow: #000 0 0 1px;
+}
+
+footer a i {
+    margin-right: 0.25em;
+}
+
 h1 {
     font-size: 1.5em;
     margin: 16px 0;
@@ -154,20 +166,9 @@ em {
     margin-bottom: 1em;
 }
 
-#footerLinks {
-    margin: 1em 0 4em;
-}
-
-#footerLinks a {
-    color: #666;
-}
-
-#footerLinks a:hover {
-    text-shadow: #000 0 0 1px;
-}
-
-#footerLinks a i {
-    margin-right: 0.25em;
+#statutesLink {
+    display: inline-block;
+    margin: 1em auto 2em;
 }
 
 #collaboration img {
@@ -178,6 +179,17 @@ em {
 #collaboration img:hover {
     filter: none;
     opacity: 100%;
+}
+
+#legalLinks {
+    display: flex;
+    flex-flow: column;
+}
+
+#legalLinks a {
+    font-size: 14px;
+    margin: 0.5em auto;
+    opacity: 0.5;
 }
 
 @media screen and (max-width: 570px) {

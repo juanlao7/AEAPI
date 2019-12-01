@@ -39,7 +39,13 @@ no_title: true
     }
 </style>
 
+
+
+
 # El click final que protege las ideas
+
+
+
 
 ![](assets/img/handshake.jpg){:.circled}
 
@@ -50,6 +56,8 @@ Amplía e interactúa con profesionales del campo de la propiedad industrial. In
 [Únete a la asociación](foro){:.button}
 
 
+
+
 ![](assets/img/forum.jpg){:.circled}
 
 # Fomentando la colaboración
@@ -57,24 +65,3 @@ Amplía e interactúa con profesionales del campo de la propiedad industrial. In
 Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
 
 [Ir al foro](foro){:.button}
-
-
-<!--
-
-![](assets/img/enterprise.jpg){:.circled}
-
-# Soporte y ayuda para empresas
-
-Asesoramiento profesional para la gestión de trámites relacionados con la propiedad industrial.
-
-[Solicitar información](contacto){:.button}
-
-
-
-![](assets/img/knowledge.jpg){:.circled}
-
-# Ampliando y promoviendo el conocimiento
-
-Jornadas, cursos y seminarios sobre todos los aspectos relacionados con la propiedad industrial.
-
--->
