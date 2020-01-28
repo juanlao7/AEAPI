@@ -1,10 +1,10 @@
----
-no_title: true
----
-
 <style>
     #backgroundImage {
         background-image: url('assets/img/background_1.jpg');
+    }
+
+    #content h1 {
+        text-align: center;
     }
 
     #content p {
@@ -18,6 +18,8 @@ no_title: true
         }
     }
 </style>
+
+# Foro público
 
 Bienvenido al foro público de la Asociación Española de Administradores de Propiedad Industrial.
 

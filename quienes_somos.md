@@ -1,7 +1,3 @@
----
-no_title: true
----
-
 <style>
     #backgroundImage {
         background-image: url('assets/img/background_2.jpg');

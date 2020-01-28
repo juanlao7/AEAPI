@@ -6,7 +6,6 @@ html {
 
 body {
     color: #666;
-    background: #fafafa;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.1rem;
     line-height: 1.5;
@@ -70,11 +69,12 @@ footer img {
 }
 
 footer a {
-    color: #666;
+    white-space: nowrap;
+    color: #666 !important;
 }
 
 footer a:hover {
-    text-shadow: #000 0 0 1px;
+    color: #000 !important;
 }
 
 footer a i {
@@ -89,6 +89,11 @@ h1 {
 h2 {
     font-size: 1.25em;
     margin: 24px 0 16px;
+}
+
+h3 {
+    font-size: 1.15em;
+    margin: 24px 0 12px;
 }
 
 p {
@@ -106,6 +111,22 @@ img {
 
 em {
     font-style: italic;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+    display: list-item;
+    list-style-type: inherit;
+    line-height: 1.5;
 }
 
 .adjusted {
@@ -182,15 +203,15 @@ em {
     opacity: 100%;
 }
 
-#legalLinks {
-    display: flex;
-    flex-flow: column;
+#copyright {
+    font-size: 14px;
+    margin: 1em auto;
+    color: #666;
+    width: 80%;
 }
 
-#legalLinks a {
-    font-size: 14px;
-    margin: 0.5em auto;
-    opacity: 0.5;
+#copyright a {
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 570px) {
