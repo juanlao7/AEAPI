@@ -23,11 +23,21 @@
 
     #people div p {
         text-align: center;
-        margin: 1em;
+        margin: 0.5em;
     }
 
     #people div img + p {
         font-weight: bold;
+    }
+
+    .linkedin {
+        font-size: 36px;
+        color: #888;
+    }
+
+    .linkedin:hover,
+    .linkedin:focus {
+        color: #0e76a8;
     }
 
     @media screen and (max-width: 570px) {
@@ -44,17 +54,20 @@
         <img class="circled" src="assets/img/people/paola.jpg" />
         <p>Paola Moreno Alcibar</p>
         <p>Presidenta</p>
+        <p><a class="linkedin" href="https://www.linkedin.com/in/paola-moreno-9641a9b/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
 
     <div>
         <img class="circled" src="assets/img/people/marina.jpg" />
         <p>Marina O'Neill Muñoz</p>
         <p>Secretaria</p>
+        <p><a class="linkedin" href="https://www.linkedin.com/in/marina-o-neill-munoz-4767a6ab/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
 
     <div>
         <img class="circled" src="assets/img/people/mary.jpg" />
         <p>Mary Jane Mollstätter</p>
         <p>Tesorera</p>
+        <p><a class="linkedin" href="https://www.linkedin.com/in/mary-jane-m-a6284490/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
 </div>
