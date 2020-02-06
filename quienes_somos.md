@@ -41,26 +41,20 @@
 
 <div id="people">
     <div>
-        <img class="circled" src="assets/img/people/cersei_lannister.jpg" />
-        <p>Cersei Lannister</p>
-        <p>Reina consorte de los Siete Reinos</p>
+        <img class="circled" src="assets/img/people/paola.jpg" />
+        <p>Paola Moreno Alcibar</p>
+        <p>Presidenta</p>
     </div>
 
     <div>
-        <img class="circled" src="assets/img/people/daenerys_targaryen.jpg" />
-        <p>Daenerys Targaryen</p>
-        <p>Heredera al Trono de Hierro</p>
+        <img class="circled" src="assets/img/people/marina.jpg" />
+        <p>Marina O'Neill Muñoz</p>
+        <p>Secretaria</p>
     </div>
 
     <div>
-        <img class="circled" src="assets/img/people/sansa_stark.jpg" />
-        <p>Sansa Stark</p>
-        <p>Señora de Invernalia</p>
-    </div>
-
-    <div>
-        <img class="circled" src="assets/img/people/arya_stark.jpg" />
-        <p>Arya Stark</p>
-        <p>Paralegal</p>
+        <img class="circled" src="assets/img/people/mary.jpg" />
+        <p>Mary Jane Mollstätter</p>
+        <p>Tesorera</p>
     </div>
 </div>

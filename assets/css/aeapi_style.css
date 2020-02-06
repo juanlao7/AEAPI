@@ -71,6 +71,7 @@ footer img {
 footer a {
     white-space: nowrap;
     color: #666 !important;
+    position: relative;
 }
 
 footer a:hover {
@@ -79,6 +80,8 @@ footer a:hover {
 
 footer a i {
     margin-right: 0.25em;
+    position: absolute;
+    left: -36px;
 }
 
 h1 {
