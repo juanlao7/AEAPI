@@ -47,7 +47,7 @@ no_title: true
 
 
 
-![](assets/img/handshake.jpg){:.circled}
+![Red profesional](assets/img/handshake.jpg){:.circled}
 
 ## Tejiendo una extensa red profesional
 
@@ -58,7 +58,7 @@ Amplía e interactúa con profesionales del campo de la propiedad industrial. In
 
 
 
-![](assets/img/forum.jpg){:.circled}
+![Colaboración](assets/img/forum.jpg){:.circled}
 
 # Fomentando la colaboración
 
