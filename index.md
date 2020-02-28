@@ -40,28 +40,22 @@ no_title: true
 </style>
 
 
+# Administrando la protección de soluciones técnicas
 
 
-# El click final que protege las ideas
+![Colaboración](assets/img/collaboration.jpg){:.circled}
 
+## Potenciando la colaboración
 
+En AEAPI creamos un espacio de encuentro para administradores de propiedad industrial, en el cual se promueve el reconocimiento de nuestras competencias mediante el intercambio de información y experiencias laborales.
+
+[Únete a la asociación](foro){:.button}
 
 
 ![Red profesional](assets/img/handshake.jpg){:.circled}
 
 ## Tejiendo una extensa red profesional
 
-Amplía e interactúa con profesionales del campo de la propiedad industrial. Intercambia ideas, información y oportunidades.
-
-[Únete a la asociación](foro){:.button}
-
-
-
-
-![Colaboración](assets/img/forum.jpg){:.circled}
-
-# Fomentando la colaboración
-
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a cualquier duda relacionada con el campo de la propiedad industrial.
+Un foro de consultas público, libre y gratuito, donde encontrar respuesta a inquietudes relacionadas con el campo de la propiedad industrial.
 
 [Ir al foro](foro){:.button}
