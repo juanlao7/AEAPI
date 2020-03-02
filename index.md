@@ -49,7 +49,7 @@ no_title: true
 
 En AEAPI creamos un espacio de encuentro para administradores de propiedad industrial, en el cual se promueve el reconocimiento de nuestras competencias mediante el intercambio de información y experiencias laborales.
 
-[Únete a la asociación](foro){:.button}
+[Únete a la asociación](registro){:.button}
 
 
 ![Metas](assets/img/road.jpg){:.circled}
@@ -58,7 +58,7 @@ En AEAPI creamos un espacio de encuentro para administradores de propiedad indus
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
 
-[Lorem ipsum](foro){:.button}
+[Ver más](metas){:.button}
 
 
 ![Red profesional](assets/img/handshake.jpg){:.circled}
