@@ -52,6 +52,15 @@ En AEAPI creamos un espacio de encuentro para administradores de propiedad indus
 [Únete a la asociación](foro){:.button}
 
 
+![Metas](assets/img/road.jpg){:.circled}
+
+## Alcanzando metas
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+
+[Lorem ipsum](foro){:.button}
+
+
 ![Red profesional](assets/img/handshake.jpg){:.circled}
 
 ## Tejiendo una extensa red profesional
