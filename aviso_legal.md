@@ -11,9 +11,9 @@ Por la mera utilización del presente sitio web adquiere la condición de usuari
 
 ## 1. Datos identificativos
 
-El titular de la web aeapi.es es la "Asociación Española de Administradores de Propiedad Industrial (AEAPI)" con el CIF XXXXXXXXXX.
+El titular de la web aeapi.es es la "Asociación Española de Administradores de Propiedad Industrial (AEAPI)"<span hidden="con el CIF XXXXXXXXXX"></span>.
 
-Puede contactar con nosotros a través del correo electrónico <span class="email">admin<span class="antispam">.and.more</span>@aeapi.es</span>.
+Puede contactar con nosotros a través del correo electrónico <span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>.
 
 ## 2. Propiedad intelectual de la web
 
@@ -43,7 +43,7 @@ De conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre,
 
 ### 6.1. Responsable del fichero
 
-AEAPI con el CIF XXXXXXXXXX, es titular del sitio web aeapi.es y responsable del fichero creado a partir de la información proporcionada por los usuarios a través de los formularios de dicho sitio web.
+AEAPI <span hidden=", con el CIF XXXXXXXXXX,"></span>es titular del sitio web aeapi.es y responsable del fichero creado a partir de la información proporcionada por los usuarios a través de los formularios de dicho sitio web.
 
 ### 6.2. Finalidad de los datos
 
@@ -65,7 +65,7 @@ El usuario podrá ejercer en cualquier momento su derecho de acceso, rectificaci
 
 * Asociación Española de Administradores de Propiedad Industrial (AEAPI)
 * Dirección: Calle Valladolid 44 2-1, 08014 Barcelona
-* Email: admin@aeapi.es
+* Email: <span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
 
 ### 6.5. Cookies
 
@@ -79,7 +79,7 @@ Podrá hacer que su navegador le avise de la presencia de cookies o que las acep
 
 Con el objetivo de mejorar el contenido proporcionado por aeapi.es adaptarlo a las necesidades de sus usuarios, el presente sitio web emplea Google Analytics como sistema de estadística web. Por ello, se incluyen los siguientes términos a la política de privacidad del sitio:
 
-Google Analytics utiliza "cookies", que son archivos de texto ubicados en su ordenador, para ayudar al website a analizar el uso que hacen los usuarios del sitio web. La información que genera la cookie acerca de su uso del website (incluyendo su dirección IP) será directamente transmitida y archivada por Google en los servidores de Estados Unidos. Google usará esta información por cuenta nuestra con el propósito de seguir la pista de su uso del website, recopilando informes de la actividad del website y prestando otros servicios relacionados con la actividad del website y el uso de Internet. Google podrá transmitir dicha información a terceros cuando así se lo requiera la legislación, o cuando dichos terceros procesen la información por cuenta de Google. Google no asociará su dirección IP con ningún otro dato del que disponga Google. Puede Usted rechazar el tratamiento de los datos o la información rechazando el uso de cookies mediante la selección de la configuración apropiada de su navegador, sin embargo, debe Usted saber que si lo hace puede ser que no pueda usar la plena funcionabilidad de este website. Al utilizar este website Usted consiente el tratamiento de información acerca de Usted por Google en la forma y para los fines arriba indicados."
+Google Analytics utiliza "cookies", que son archivos de texto ubicados en su ordenador, para ayudar al website a analizar el uso que hacen los usuarios del sitio web. La información que genera la cookie acerca de su uso del website (incluyendo su dirección IP) será directamente transmitida y archivada por Google en los servidores de Estados Unidos. Google usará esta información por cuenta nuestra con el propósito de seguir la pista de su uso del website, recopilando informes de la actividad del website y prestando otros servicios relacionados con la actividad del website y el uso de Internet. Google podrá transmitir dicha información a terceros cuando así se lo requiera la legislación, o cuando dichos terceros procesen la información por cuenta de Google. Google no asociará su dirección IP con ningún otro dato del que disponga Google. Puede Usted rechazar el tratamiento de los datos o la información rechazando el uso de cookies mediante la selección de la configuración apropiada de su navegador, sin embargo, debe Usted saber que si lo hace puede ser que no pueda usar la plena funcionabilidad de este website. Al utilizar este website Usted consiente el tratamiento de información acerca de Usted por Google en la forma y para los fines arriba indicados.
 
 ### 7. Legislación y jurisdicción aplicables
 
