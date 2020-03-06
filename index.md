@@ -56,7 +56,7 @@ En AEAPI creamos un espacio de encuentro para administradores de propiedad indus
 
 ## Alcanzando metas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+Trabajando para lograr el reconocimiento de la labor de los Administradores de la Propiedad Industrial en España.
 
 [Ver más](metas){:.button}
 
