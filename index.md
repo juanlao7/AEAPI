@@ -47,7 +47,10 @@ no_title: true
 
 ## Potenciando la colaboración
 
-En AEAPI creamos un espacio de encuentro para administradores de propiedad industrial, en el cual se promueve el reconocimiento de nuestras competencias mediante el intercambio de información y experiencias laborales.
+En AEAPI creamos un espacio de encuentro 
+para administradores de propiedad industrial, 
+en el cual se promueve el reconocimiento de nuestras competencias 
+mediante el intercambio de información y experiencias laborales.
 
 [Únete a la asociación](registro){:.button}
 
@@ -56,7 +59,8 @@ En AEAPI creamos un espacio de encuentro para administradores de propiedad indus
 
 ## Alcanzando metas
 
-Trabajando para lograr el reconocimiento de la labor de los Administradores de la Propiedad Industrial en España.
+Trabajando para lograr el reconocimiento de la labor 
+de los Administradores de la Propiedad Industrial en España.
 
 [Ver más](metas){:.button}
 
@@ -65,6 +69,7 @@ Trabajando para lograr el reconocimiento de la labor de los Administradores de l
 
 ## Tejiendo una extensa red profesional
 
-Un foro de consultas público, libre y gratuito, donde encontrar respuesta a inquietudes relacionadas con el campo de la propiedad industrial.
+Un foro de consultas público, libre y gratuito, donde encontrar respuesta 
+a inquietudes relacionadas con el campo de la propiedad industrial.
 
 [Ir al foro](foro){:.button}
