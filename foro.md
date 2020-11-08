@@ -25,10 +25,4 @@ Bienvenido al foro público de la Asociación Española de Administradores de Pr
 
 Un espacio donde compartir e intercambiar opiniones, resolver colectivamente dudas relacionadas con la propiedad industrial y estar al día de las últimas noticias del sector y la asociación.
 
-<iframe id="forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" width="100%" height="700">Cargando...</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/a/aeapi.es/forum/embed/?place=forum/foro'
-     + '&showsearch=true&showpopout=false&showtabs=false&hideforumtitle=true'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
+[Ir al foro](https://groups.google.com/a/aeapi.es/g/foro){:.button}
