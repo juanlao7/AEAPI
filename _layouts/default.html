@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{% assign language = page.url | slice: 0, 4 %}
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <base href="{{ site.baseurlagain }}" />
@@ -9,6 +10,7 @@
     {% seo title=false %}
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Philosopher:400&display=swap" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="{{ 'assets/fontello/css/fontello.css?v=' | append: site.github.build_revision | relative_url }}" />
     <link rel="stylesheet" href="{{ 'assets/css/aeapi_style.css?v=' | append: site.github.build_revision | relative_url }}" />
   </head>
@@ -19,27 +21,63 @@
 
       <div class="adjusted">
         <img src="{{ site.logo }}" alt="AEAPI" />
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        {% if language == '/en/' %}
+          {% assign description = site.description_en %}
+        {% else %}
+          {% assign description = site.description %}
+        {% endif %}
+        <p>{{ description }}</p>
 
         <nav>
-          <a href=""><i class="icon-home"></i> Inicio</a>
-          <a href="quienes_somos"><i class="icon-group"></i> Quiénes somos</a>
-          <a href="foro"><i class="icon-comment-alt"></i> Foro público</a>
-          <a href="contacto"><i class="icon-mail"></i> Contacto</a>
+          {% if language == '/en/' %}
+            <a href="en/"><i class="icon-home"></i> Home</a>
+            <a href="en/about_us"><i class="icon-group"></i> About us</a>
+            <a href="en/forum"><i class="icon-comment-alt"></i> Public forum</a>
+            <a href="en/contact"><i class="icon-mail"></i> Contact</a>
+          {% else %}
+            <a href=""><i class="icon-home"></i> Inicio</a>
+            <a href="quienes_somos"><i class="icon-group"></i> Quiénes somos</a>
+            <a href="foro"><i class="icon-comment-alt"></i> Foro público</a>
+            <a href="contacto"><i class="icon-mail"></i> Contacto</a>
+          {% endif %}
         </nav>
       </div>
     </header>
 
     <section id="content" class="adjusted">
+      <div id="languageSelectorContainer">
+        <div id="languageSelector">
+          <input id="languageSelectorCheckbox" type="checkbox" name="menu" />
+
+          <label for="languageSelectorCheckbox" class="button">
+            <i class="material-icons">translate</i>
+            {% if language == '/en/' %}
+              Language
+            {% else %}
+              Idioma
+            {% endif %}
+          </label>
+          
+          <ul>
+            <li><a href="{{ page.permalink_es }}">Español</a></li>
+            <li><a href="{{ page.permalink_en }}">English</a></li>
+          </ul>
+        </div>
+      </div>
+      
       {{ content }}
     </section>
     
     <footer>
       <div class="adjusted">
-        <a id="statutesLink" href="ESTATUTOS.pdf"><i class="icon-hammer"></i> Estatutos de la asociación</a>
+        <a id="statutesLink" href="ESTATUTOS.pdf"><i class="icon-hammer"></i> {% if language == '/en/' %}Association statutes{% else %}Estatutos de la asociación{% endif %}</a>
 
         <div id="copyright">
-          <a href="aviso_legal">Aviso legal y política de privacidad</a>
+          {% if language == '/en/' %}
+            <a href="aviso_legal">Legal notice and privacy policy</a>
+          {% else %}
+            <a href="aviso_legal">Aviso legal y política de privacidad</a>
+          {% endif %}
         </div>
       </div>
     </footer>

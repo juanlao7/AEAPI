@@ -189,7 +189,7 @@ li {
     background: #fff;
     position: relative;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
-    padding: 24px 32px 100px;
+    padding: 80px 32px 100px;
     min-height: 300px;
 }
 
@@ -223,6 +223,72 @@ li {
     text-decoration: underline;
 }
 
+#languageSelectorContainer {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+
+#languageSelector input,
+#languageSelector ul {
+    display: none;
+}
+
+#languageSelector label {
+    font-size: 0.9rem;
+    background: #fff;
+    color: #267CB9;
+    border: 1px solid #267CB9;
+    cursor: pointer;
+}
+
+#languageSelector label:hover {
+    background: #267CB9;
+    color: #fff;
+}
+
+#languageSelector label i {
+    margin-right: 8px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+#languageSelector ul {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 100%;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+#languageSelector a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#languageSelector a:hover {
+    background-color: #f1f1f1;
+}
+
+#languageSelector input:checked~label {
+    background: #267CB9;
+    color: #fff;
+}
+
+#languageSelector input:checked~ul {
+    display: block;
+}
+
 @media screen and (max-width: 570px) {
     nav {
         margin: 1em -24px;
@@ -237,6 +303,6 @@ li {
     }
 
     #content {
-        padding: 24px 16px 100px;
+        padding: 80px 16px 100px;
     }
 }

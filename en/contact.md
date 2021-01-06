@@ -22,12 +22,12 @@ permalink_en: en/contact
     }
 </style>
 
-# Contacto
+# Contact
 
 <p id="emailParagraph">
-    <i class="icon-mail"></i> Para cualquier tipo de consulta, envíanos un email a<br/><span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
+    <i class="icon-mail"></i> For any type of query, send us an email to:<br/><span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
 </p>
 
-o, si lo prefieres, puedes dejar aquí tu mensaje:
+Or, if you prefer, you can leave your message here:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelaLEwW698RR7vKIFh_lnvSlZh2LFKOQrsQ-Ij3K1bKj11Hw/viewform?embedded=true" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>

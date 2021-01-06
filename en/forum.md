@@ -23,10 +23,10 @@ permalink_en: en/forum
     }
 </style>
 
-# Foro público
+# Public forum
 
-Bienvenido al foro público de la Asociación Española de Administradores de Propiedad Industrial.
+Welcome to the public forum of the Spanish Association of Industrial Property Administrators.
 
-Un espacio donde compartir e intercambiar opiniones, resolver colectivamente dudas relacionadas con la propiedad industrial y estar al día de las últimas noticias del sector y la asociación.
+A space to share and exchange opinions, resolve doubts related to industrial property administration collectively and keep up to date with the latest news from the sector and the association.
 
-[Ir al foro](https://groups.google.com/a/aeapi.es/g/foro){:.button}
+[Go to forum](https://groups.google.com/a/aeapi.es/g/foro){:.button}

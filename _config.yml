@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
 title: AEAPI
 description: Asociación Española de Administradores de Propiedad Industrial
+description_en: Spanish Association of Industrial Property Administrators
 logo: assets/img/logos/vectorial.svg
 baseurl: /
 baseurlagain: /
+permalink: /404.html
 
 github:
   is_project_page: false

@@ -51,27 +51,27 @@ permalink_en: en/about_us
     }
 </style>
 
-# Nuestro equipo
+# About us
 
 <div id="people">
     <div>
         <img class="circled" src="assets/img/people/paola.jpg" />
         <p>Paola Moreno Alcibar</p>
-        <p>Presidenta</p>
+        <p>Chairwoman</p>
         <p><a class="linkedin" href="https://www.linkedin.com/in/paola-moreno-9641a9b/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
 
     <div>
         <img class="circled" src="assets/img/people/marina.jpg" />
         <p>Marina O'Neill Muñoz</p>
-        <p>Secretaria</p>
+        <p>Secretary</p>
         <p><a class="linkedin" href="https://www.linkedin.com/in/marina-o-neill-munoz-4767a6ab/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
 
     <div>
         <img class="circled" src="assets/img/people/mayra.jpg" />
         <p>Mayra Noemi Delgado Novoa</p>
-        <p>Tesorera</p>
+        <p>Treasurer</p>
         <p><a class="linkedin" href="https://www.linkedin.com/in/mayra-noemi-delgado-novoa-17382a73/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
 </div>

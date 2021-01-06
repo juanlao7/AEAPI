@@ -1,5 +1,7 @@
 ---
 no_title: true
+permalink_es: ''
+permalink_en: en/
 ---
 
 <style>
@@ -12,7 +14,7 @@ no_title: true
     }
 
     #content {
-        padding: 24px 64px 100px;
+        padding: 80px 64px 100px;
     }
 
     #content,
@@ -30,7 +32,7 @@ no_title: true
 
     @media screen and (max-width: 570px) {
         #content {
-            padding: 24px 10% 100px;
+            padding: 80px 10% 100px;
         }
         
         #content img {

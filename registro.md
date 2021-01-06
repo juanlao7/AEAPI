@@ -1,3 +1,7 @@
+---
+permalink_es: registro
+permalink_en: en/register
+---
 <style>
     #backgroundImage {
         background-image: url('assets/img/background_5.jpg');

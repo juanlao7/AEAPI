@@ -11,7 +11,7 @@
     }
 
     #content {
-        padding: 24px 16px 100px;
+        padding: 80px 16px 100px;
     }
 
     #content img {

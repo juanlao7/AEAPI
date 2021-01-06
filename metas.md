@@ -1,3 +1,7 @@
+---
+permalink_es: metas
+permalink_en: en/goals
+---
 <style>
     #backgroundImage {
         background-image: url('assets/img/background_1.jpg');

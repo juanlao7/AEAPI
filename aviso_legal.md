@@ -1,3 +1,7 @@
+---
+permalink_es: aviso_legal
+permalink_en: aviso_legal
+---
 <style>
   #backgroundImage {
     background-image: url('assets/img/background_6.jpg');
