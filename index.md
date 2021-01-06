@@ -42,7 +42,7 @@ permalink_en: en/
 </style>
 
 
-# Administrando la protección de soluciones técnicas
+# Administramos la protección de soluciones técnicas
 
 
 ![Colaboración](assets/img/collaboration.jpg){:.circled}
