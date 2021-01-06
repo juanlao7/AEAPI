@@ -10,7 +10,7 @@ permalink_en: en/goals
 
 # Reaching goals
 
-Our association was born with several purposes:
+Our association was created with several purposes:
 
 * Protect the interests of its members in the field of the administration of Industrial Property (IP) rights, including:
   * represent the members both nationally and internationally before other associations,
