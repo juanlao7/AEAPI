@@ -72,6 +72,6 @@ de los Administradores de la Propiedad Industrial en España.
 ## Tejiendo una extensa red profesional
 
 Un foro de consultas público, libre y gratuito, donde encontrar respuesta 
-a inquietudes relacionadas con el campo de la propiedad industrial.
+a inquietudes relacionadas con la administración de la propiedad industrial.
 
 [Ir al foro](https://groups.google.com/a/aeapi.es/g/foro){:.button}
