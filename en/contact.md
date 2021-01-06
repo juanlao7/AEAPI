@@ -25,7 +25,7 @@ permalink_en: en/contact
 # Contact
 
 <p id="emailParagraph">
-    <i class="icon-mail"></i> For any type of query, send us an email to:<br/><span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
+    <i class="icon-mail"></i> For any kind of query, send us an email to:<br/><span class="email">contact<span class="antispam">.and.more</span>@aeapi.es</span>
 </p>
 
 Or, if you prefer, you can leave your message here:
