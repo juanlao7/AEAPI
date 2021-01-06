@@ -50,7 +50,7 @@ permalink_en: en/
 ## Potenciando la colaboración
 
 En AEAPI creamos un espacio de encuentro 
-para administradores de propiedad industrial, 
+para administradores de propiedad industrial (paralegales), 
 en el cual se promueve el reconocimiento de nuestras competencias 
 mediante el intercambio de información y experiencias laborales.
 
