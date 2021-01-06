@@ -49,7 +49,7 @@ permalink_en: en/
 
 ## Enhancing collaboration
 
-At AEAPI we create a hub for industrial property administrators, in which the recognition of our skills is promoted through the exchange of information and work experiences.
+At AEAPI we create a hub for industrial property administrators (paralegals, formalities officers), in which the recognition of our skills is promoted through the exchange of information and work experiences.
 
 [Join the association](en/register){:.button}
 
