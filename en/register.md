@@ -24,6 +24,6 @@ AEAPI members can:
 
 Fill in the following form to request to be a member of AEAPI.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkzyvyS5AlrtOJTHXId8YjATIKvBX-LhirSXmeVqxDeqAfjQ/viewform?embedded=true" width="100%" height="2500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScW3IvE8mLVxkg2yK49gfsaswW07XtSq7IG5nYubxCFV3ODKw/viewform?embedded=true" width="100%" height="2500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <sup>1</sup> You can only post messages to the forum from a Google account.
