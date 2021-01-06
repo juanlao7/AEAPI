@@ -12,7 +12,7 @@ permalink_en: en/goals
 
 Nuestra asociación nace con varios fines:
 
-* Proteger los intereses de sus miembros en el campo de los derechos de Propiedad Industrial (PI), incluyendo:
+* Proteger los intereses de sus miembros en el campo de la administración de los derechos de Propiedad Industrial (PI), incluyendo:
   * representar a los miembros tanto a nivel nacional como internacional ante otras asociaciones, instituciones, organismos gubernamentales y similares en el campo anterior;
   * contribuir a la promoción de las habilidades profesionales de los miembros;
   * aumentar el reconocimiento sobre la función de los miembros como especialistas y asegurar su reputación;
