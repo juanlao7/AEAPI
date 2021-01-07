@@ -17,6 +17,7 @@ Our association was created with several purposes:
 institutions, government agencies and similar in the above field;
   * contribute to the promotion of the professional skills of the members;
   * increase recognition of members' role as specialists and ensure their reputation;
-  * collaborate with public organizations and institutions, providing services and carrying out activities, within the scope of its capacity, in the interest of public organizations, whether national, community or international.
+  * collaborate with public organizations and institutions, providing services and carrying out activities, within the scope of its capacity.
+  
 * Promote the recognition of the work of the Administrators of Industrial Property in Spain.
 
