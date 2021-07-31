@@ -67,11 +67,4 @@ permalink_en: en/about_us
         <p>Secretaria</p>
         <p><a class="linkedin" href="https://www.linkedin.com/in/marina-o-neill-munoz-4767a6ab/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
     </div>
-
-    <div>
-        <img class="circled" src="assets/img/people/mayra.jpg" />
-        <p>Mayra Noemi Delgado Novoa</p>
-        <p>Tesorera</p>
-        <p><a class="linkedin" href="https://www.linkedin.com/in/mayra-noemi-delgado-novoa-17382a73/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
-    </div>
 </div>
