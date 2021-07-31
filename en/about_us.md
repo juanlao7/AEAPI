@@ -69,9 +69,6 @@ permalink_en: en/about_us
     </div>
 
     <div>
-        <img class="circled" src="assets/img/people/mayra.jpg" />
-        <p>Mayra Noemi Delgado Novoa</p>
-        <p>Treasurer</p>
-        <p><a class="linkedin" href="https://www.linkedin.com/in/mayra-noemi-delgado-novoa-17382a73/" target="_blank" rel="noopener"><i class="icon-linkedin-squared"></i></a></p>
+        
     </div>
 </div>
