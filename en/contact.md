@@ -24,6 +24,6 @@ permalink_en: en/contact
 
 # Contact
 
-You can leave your message here:
+You can send your message to:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBMcIIAy2Dp9W-HhOZtIvH4Z3VRKi1OQHLe1wAOd8KrfMrDw/viewform?embedded=true" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="mailto:admin@aeapi.es" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
