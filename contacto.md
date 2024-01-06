@@ -22,9 +22,8 @@ permalink_en: en/contact
     }
 </style>
 
-# Contacto
+# Contact
 
-<p id="emailParagraph">
-
+admin@aeapi.es
 
 <iframe src="mailto:admin@aeapi.es" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
