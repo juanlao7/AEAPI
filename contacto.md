@@ -25,6 +25,6 @@ permalink_en: en/contact
 # Contacto
 
 <p id="emailParagraph">
-Puedes dejar aquí tu mensaje:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelaLEwW698RR7vKIFh_lnvSlZh2LFKOQrsQ-Ij3K1bKj11Hw/viewform?embedded=true" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
+<iframe src="mailto:admin@aeapi.es" width="80%" height="600" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
